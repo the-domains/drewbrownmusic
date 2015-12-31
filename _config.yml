@@ -1,0 +1,28 @@
+name: DrewBrownMusic
+favicon: null
+layout_spectrum: 0.9782804599963129
+typography_spectrum: 0.07845054566860199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7061996874399483
+  lightness: 0.2685867177788168
+  saturation: 0.05435570375993848
+  rhythmicContrast: 0.24546811054460704
+purpose: []
