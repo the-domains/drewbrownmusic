@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DrewBrownMusic]]></title>
         <description><![CDATA[DrewBrownMusic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drewbrownmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 01:28:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 01:28:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drewbrownmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Page]]></title>
+            <description><![CDATA[<article><h1>Test Page</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06e1d2cc04ed4421f8435e464ed9dadc18e4176d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/drewbrownmusic/test-page/index.html</link>
+            <guid isPermaLink="false">ae2cea5a-668e-44d0-8dbd-9ba0b45883d1</guid>
+            <pubDate>Sat, 30 Jan 2016 01:28:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4742f39-23e7-44ac-9d91-e07f47287c95.jpg" alt="" title="">]]></description>
-            <link>undefined40a84d25-75b8-4106-9495-ea51a4aa20e3/index.html</link>
+            <link>https://thegrid.ai/drewbrownmusic/40a84d25-75b8-4106-9495-ea51a4aa20e3/index.html</link>
             <guid isPermaLink="false">40a84d25-75b8-4106-9495-ea51a4aa20e3</guid>
             <pubDate>Sat, 30 Jan 2016 01:28:42 GMT</pubDate>
         </item>
